@@ -8,7 +8,7 @@ This colletion is consists of:
 
 ### Audioscrobller
 
-You can learn building your own ==music recommendation engine== with this dataset.
+You can learn building your own **music recommendation engine** with this dataset.
 
 ## Note for Databricks user: How to gain pull this data to Databricks?
 
